@@ -10,7 +10,7 @@ Now in early development step, below functions are sequently added.
 | '/ping' | Check bot is in normal state |
 | '/top-post' | Randomly send a link of hot-post in available sites. |
 
-## development environment
+## development dependencies
 aiohappyeyeballs==2.7.1
 aiohttp==3.14.5
 aiosignal==1.4.0
@@ -22,4 +22,4 @@ idna==3.20
 multidict==7.2.1
 propcache==0.5.4
 python-dotenv==1.2.4
-yarl==1.25.1ß
+yarl==1.25.1
